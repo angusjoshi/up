@@ -5,6 +5,11 @@
 class Jumper;
 class Platform;
 
+//TODO: implement auto scrolling with increasing scrollspeed
+//TODO: implement start menu
+//TODO: implement pause and pause menu
+//TODO: implement the spikey and super bouncy platforms
+
 class Game
 {
 public:
